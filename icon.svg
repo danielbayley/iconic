@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <style>
+    polyline, ellipse {
+      fill: none;
+      stroke: #C9D1D9;
+      stroke-width: 64;
+      stroke-linecap: round;
+      stroke-linejoin: round
+    }
+  </style>
+  <ellipse cx="512" cy="715.8" rx="384" ry="195.8"/>
+  <polyline points="147.2,653.3 512,123.4 876.8,653.3"/>
+</svg>

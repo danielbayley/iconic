@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+*.ic*ns*
+
+*.{pn,jp*}g
